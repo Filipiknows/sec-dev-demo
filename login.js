@@ -1,3 +1,4 @@
+
 function login(user, pass) {
-	return user && pass ? "Login Successful" : "Login Failed";
+	return user && pass ? "Login Successful Yay!" : "Login Failed";
 }
